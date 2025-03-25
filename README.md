@@ -63,7 +63,7 @@ After installing the necessary libraries, you can run the script to calculate an
 
 2. **Output:**
 
-   [Wavefunctions Plot](trinket_plot.png)
+   [Wavefunctions Plot](./trinket_plot.png)
 
 ---
 
