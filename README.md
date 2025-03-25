@@ -31,7 +31,7 @@ To run the code, you need Python and the required libraries. The easiest way to 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/1d-particle-in-a-box.git
+   git clone https://github.com/KennethTebogo/1d-particle-in-a-box.git
    cd 1d-particle-in-a-box
    ```
 
