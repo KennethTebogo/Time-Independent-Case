@@ -63,7 +63,7 @@ After installing the necessary libraries, you can run the script to calculate an
 
 2. **Output:**
 
-   The script will output a plot showing the probability densities for the first few eigenfunctions of the particle in the box. The x-axis represents position \(x\), and the y-axis represents the probability density \( \psi(x)^2 \). Each curve corresponds to a different energy level.
+   [Wavefunctions Plot](trinket_plot.png)
 
 ---
 
